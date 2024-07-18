@@ -10,21 +10,7 @@ Este repositório contém o documento do livro **A Inteligência como Sentimento
 
 ## Capítulos
 
-1. **Introdução**
-2. **A Ideia: O Sentir da Inteligência**
-3. **A Contextualidade da Inteligência**
-4. **Integração Emocional: Coração e Mente Unidos**
-5. **O Encanto da Percepção**
-6. **Inovações e Implicações: O Novo Olhar**
-7. **Revisão dos Conceitos: Definindo Inteligência e Competências**
-8. **Definição e Mensuração de Competências**
-9. **Inteligência como um Sentimento**
-10. **Inovações e Implicações**
-11. **Desafios e Críticas**
-12. **Perspectivas Alternativas**
-13. **Conclusão**
-14. **A Inteligência como Sentimento para Ansiosos**
-15. **Agradecimentos**
+Vide /drafts/estrutura.md
 
 ## Contato
 
