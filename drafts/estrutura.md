@@ -29,7 +29,7 @@
     - Encorajar o leitor a manter a mente aberta, a refletir sobre suas próprias experiências de inteligência e a refutar a ideia de que inteligência é um sentimento.
     - Propor que o leitor utilize as ideias do livro para enriquecer sua própria visão e aplicação da inteligência em sua vida pessoal e profissional.
 
-## Capítulo 1 - As Idéias
+## Ato 1 - As Idéias
 
 ### O Sentir da Inteligência
 - Exploração inicial da ideia de inteligência como uma percepção subjetiva, destacando a beleza das ideias e soluções criativas.
@@ -43,7 +43,7 @@
 ### O Encanto da Percepção
 - Reflexão sobre como percebemos e sentimos a inteligência em diferentes situações e pessoas.
 
-## Capítulo 2 - Os Conceitos
+## Ato 2 - Os Conceitos
 
 ### Definindo Inteligência e Competências
 - Proposta de novas definições para inteligência e competências, trazendo clareza conceitual.
@@ -54,7 +54,7 @@
 ### Inteligência como um Sentimento
 - Uma exploração profunda da inteligência como sentimento.
 
-## Capítulo 3 - As Implicações
+## Ato 3 - As Implicações
 
 ### Inovações e Implicações
 - As inovações possíveis a partir dessa nova visão da inteligência e suas implicações na educação, design e autoimagem.
