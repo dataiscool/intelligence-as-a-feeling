@@ -25,7 +25,7 @@
 - Destacar a importância do tema para o leitor
     - Destacar a relevância do tema para diferentes públicos, como educadores, psicólogos, profissionais de desenvolvimento pessoal, e qualquer pessoa interessada em entender a inteligência de uma forma mais profunda e holística.
 
--Convidar o leitor
+- Convidar o leitor
     - Encorajar o leitor a manter a mente aberta, a refletir sobre suas próprias experiências de inteligência e a refutar a ideia de que inteligência é um sentimento.
     - Propor que o leitor utilize as ideias do livro para enriquecer sua própria visão e aplicação da inteligência em sua vida pessoal e profissional.
 
