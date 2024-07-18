@@ -32,4 +32,4 @@ Para mais informações, entre em contato com o autor em [fahbittencourt@gmail.c
 
 ---
 
-© [2024] [Fillipi Bittencourt]. Todos os direitos reservados.
+© 2024 Fillipi Bittencourt. Todos os direitos reservados.
