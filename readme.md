@@ -26,14 +26,6 @@ Este repositório contém o documento do livro **A Inteligência como Sentimento
 14. **A Inteligência como Sentimento para Ansiosos**
 15. **Agradecimentos**
 
-## Como Contribuir
-
-1. Faça um fork deste repositório.
-2. Crie um branch para a sua contribuição: `git checkout -b minha-contribuicao`.
-3. Faça as alterações desejadas e commit: `git commit -m 'Minha contribuição'`.
-4. Envie para o branch original: `git push origin minha-contribuicao`.
-5. Abra um pull request.
-
 ## Contato
 
 Para mais informações, entre em contato com o autor em [fahbittencourt@gmail.com].
