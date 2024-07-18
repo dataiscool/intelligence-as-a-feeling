@@ -1,4 +1,4 @@
-# A Inteligência como Sentimento: Não é você, sou eu.
+# A Inteligência como Sentimento: Não é Você, sou Eu.
 
 ## Introdução
 

@@ -1,6 +1,6 @@
 # A Inteligência como Sentimento
 
-Este repositório contém o documento do livro **A Inteligência como Sentimento**. O livro explora uma nova perspectiva sobre inteligência, considerando-a como uma experiência subjetiva e emocional, em vez de uma medida objetiva.
+Este repositório contém o documento do livro **A Inteligência como Sentimento: Não é Você, Sou Eu**. O livro explora uma nova perspectiva sobre inteligência, considerando-a como uma experiência subjetiva e emocional, em vez de uma medida objetiva.
 
 ## Estrutura do Repositório
 
@@ -32,4 +32,4 @@ Para mais informações, entre em contato com o autor em [fahbittencourt@gmail.c
 
 ---
 
-© [2024] [Fillipi Bittencourt]. Todos os direitos reservados.
+© 2024 Fillipi Bittencourt. Todos os direitos reservados.
