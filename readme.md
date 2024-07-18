@@ -10,41 +10,21 @@ Este repositório contém o documento do livro **A Inteligência como Sentimento
 
 ## Capítulos
 
-1. **Introdução: O Despertar da Inteligência Sentida**
-   - Uma visão geral do conceito do livro, despertando o interesse do leitor sobre a inteligência como um sentimento.
-
+1. **Introdução**
 2. **A Ideia: O Sentir da Inteligência**
-   - Exploração inicial da ideia de inteligência como uma percepção subjetiva, destacando a beleza das ideias e soluções criativas.
-
 3. **A Contextualidade da Inteligência**
-   - Discussão sobre como a inteligência varia conforme o contexto, adicionando profundidade à compreensão do leitor.
-
 4. **Integração Emocional: Coração e Mente Unidos**
-   - Relacionamento entre inteligência e emoções, e como essa integração enriquece nossa percepção do mundo.
-
 5. **O Encanto da Percepção**
-   - Reflexão sobre como percebemos e sentimos a inteligência em diferentes situações e pessoas.
-
 6. **Inovações e Implicações: O Novo Olhar**
-   - As inovações possíveis a partir dessa nova visão da inteligência e suas implicações na educação, design e autoimagem.
-
-7. **Desafios e Críticas: O Caminho Inexplorado**
-   - Potenciais críticas e desafios dessa abordagem, oferecendo uma visão equilibrada.
-
-8. **Redefinição dos Termos: A Nova Linguagem da Inteligência**
-   - Proposta de novas definições para inteligência e competências, trazendo clareza conceitual.
-
-9. **Benefícios da Nova Perspectiva**
-   - Vantagens de adotar essa nova visão sobre inteligência, destacando a valorização das experiências pessoais.
-
-10. **Inteligência como um Sentimento: A Dança dos Sentidos**
-    - Uma exploração poética e profunda da inteligência como sentimento, elevando a experiência do leitor.
-
-11. **Abordagens Alternativas: Caminhos Diversos**
-    - Outras maneiras de abordar e entender a inteligência, enriquecendo a discussão.
-
-12. **Conclusão: O Horizonte da Inteligência Sentida**
-    - Encerramento inspirador, convidando o leitor a adotar essa nova perspectiva na sua vida diária.
+7. **Revisão dos Conceitos: Definindo Inteligência e Competências**
+8. **Definição e Mensuração de Competências**
+9. **Inteligência como um Sentimento**
+10. **Inovações e Implicações**
+11. **Desafios e Críticas**
+12. **Perspectivas Alternativas**
+13. **Conclusão**
+14. **A Inteligência como Sentimento para Ansiosos**
+15. **Agradecimentos**
 
 ## Como Contribuir
 
