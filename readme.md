@@ -40,10 +40,6 @@ This project is licensed under the Custom Non-Commercial License (CNCL). This li
 
 To use the content of this project for commercial purposes, please contact the authors at [contact email] to discuss terms and obtain a commercial license. The commercial license will ensure that the authors are fairly compensated for the use of their work in commercial applications.
 
-#### Full License Text
-
-For the full terms and conditions of the Custom Non-Commercial License (CNCL), please refer to the LICENSE file included in this repository.
-
 ---
 
 © 2024 Fillipi Bittencourt. All rights reserved.
