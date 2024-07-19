@@ -1,21 +1,49 @@
-# A Inteligência como Sentimento
+# Intelligence as Feeling
 
-Este repositório contém o documento do livro **A Inteligência como Sentimento: Não é Você, Sou Eu**. O livro explora uma nova perspectiva sobre inteligência, considerando-a como uma experiência subjetiva e emocional, em vez de uma medida objetiva.
+This repository contains the document for the book **Intelligence as Feeling: It's Not You, It's Me**. The book explores a new perspective on intelligence, considering it as a subjective and emotional experience rather than an objective measure.
 
-## Estrutura do Repositório
+## Repository Structure
 
-- **/docs**: Contém todos os capítulos do livro em formato markdown.
-- **/assets**: Contém imagens, gráficos e outros recursos utilizados no livro.
-- **/drafts**: Contém rascunhos e versões preliminares dos capítulos.
+- **/docs**: Contains all chapters of the book in markdown format.
+- **/assets**: Contains images, graphics, and other resources used in the book.
+- **/drafts**: Contains drafts and preliminary versions of the chapters.
 
-## Capítulos
+## Chapters
 
-Vide /drafts/estrutura.md
+See /drafts/estrutura.md
 
-## Contato
+## Contact
 
-Para mais informações, entre em contato com o autor em [fahbittencourt@gmail.com].
+For more information, contact the author at [fahbittencourt@gmail.com].
 
 ---
 
-© 2024 Fillipi Bittencourt. Todos os direitos reservados.
+### Custom Non-Commercial License (CNCL)
+
+#### Overview
+
+This project is licensed under the Custom Non-Commercial License (CNCL). This license is designed to allow free use, modification, and distribution of the software for non-commercial purposes. For any commercial use, explicit permission must be obtained from the authors, and a separate commercial license agreement must be negotiated.
+
+#### Key Terms
+
+1. **Non-Commercial Use**: You are free to use, modify, and distribute the software for non-commercial purposes. This includes personal projects, academic research, and open-source contributions.
+
+2. **Attribution**: Any distribution of the original or modified software must include proper attribution to the original authors, along with a copy of this license.
+
+3. **Commercial Use**: Commercial use of the software, including but not limited to selling, sublicensing, or incorporating the software into a product or service for sale, is prohibited without prior written permission from the authors. Commercial use requires a separate commercial license agreement, which can be negotiated by contacting the authors at [contact email].
+
+4. **Derivative Works**: You are permitted to create and distribute derivative works based on the software for non-commercial purposes, provided that such derivative works comply with the terms of this license.
+
+5. **Disclaimer of Warranty**: The software is provided "as is," without warranty of any kind. The authors are not liable for any damage arising from the use of the software.
+
+#### How to Obtain a Commercial License
+
+To use this software for commercial purposes, please contact the authors at [contact email] to discuss terms and obtain a commercial license. The commercial license will ensure that the authors are fairly compensated for the use of their work in commercial applications.
+
+#### Full License Text
+
+For the full terms and conditions of the Custom Non-Commercial License (CNCL), please refer to the LICENSE file included in this repository.
+
+---
+
+© 2024 Fillipi Bittencourt. All rights reserved.
