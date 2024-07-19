@@ -12,6 +12,13 @@ This repository contains the document for the book **Intelligence as Feeling: It
 
 See /drafts/estrutura.md
 
+## Changelog
+
+### [1.0.0] - 2024-07-19
+#### Added
+- Officially opened the repo.
+- Added changelog.
+
 ## Contact
 
 For more information, contact the author at [fahbittencourt@gmail.com].
