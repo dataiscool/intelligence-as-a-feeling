@@ -19,6 +19,25 @@ See /drafts/estrutura.md
 - Officially opened the repo.
 - Added changelog.
 
+## How to Contribute
+-----------------
+
+We welcome contributions to improve the book **Intelligence as Feeling: It's Not You, It's Me**. Here's how you can contribute:
+
+1.  **Fork the Repository**: Start by forking the repository to your own GitHub account.
+2.  **Clone the Fork**: Clone your fork to your local machine.
+3.  **Create a Branch**: Create a new branch for your contributions. Always pull from the `develop` branch to ensure you have the most up-to-date version.
+4.  **Pull Latest Changes**: Ensure your branch is up-to-date with the latest changes from the `develop` branch.
+5.  **Make Your Changes**: Add more content, improve existing content, and avoid excluding any relevant information.
+6.  **Commit Your Changes**: Commit your changes with a meaningful commit message.
+7.  **Push Your Branch**: Push your branch to your forked repository.
+8.  **Create a Pull Request**: Go to the original repository on GitHub and create a pull request from your branch. Provide a clear description of the changes you have made.
+
+## Issue System
+
+We use the issue system on GitHub to track bugs, feature requests, and other contributions. You can create an issue to report a bug, suggest a new feature, or discuss potential improvements.
+
+=======
 ## Contact
 
 For more information, contact the author at [fahbittencourt@gmail.com].
@@ -47,6 +66,5 @@ This project is licensed under the Custom Non-Commercial License (CNCL). This li
 
 To use the content of this project for commercial purposes, please contact the authors at [contact email] to discuss terms and obtain a commercial license. The commercial license will ensure that the authors are fairly compensated for the use of their work in commercial applications.
 
----
-
+=======
 © 2024 Fillipi Bittencourt. All rights reserved.
