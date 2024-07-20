@@ -20,7 +20,6 @@ See /drafts/estrutura.md
 - Added changelog.
 
 ## How to Contribute
------------------
 
 We welcome contributions to improve the book **Intelligence as Feeling: It's Not You, It's Me**. Here's how you can contribute:
 
@@ -37,7 +36,6 @@ We welcome contributions to improve the book **Intelligence as Feeling: It's Not
 
 We use the issue system on GitHub to track bugs, feature requests, and other contributions. You can create an issue to report a bug, suggest a new feature, or discuss potential improvements.
 
-=======
 ## Contact
 
 For more information, contact the author at [fahbittencourt@gmail.com].
@@ -66,5 +64,6 @@ This project is licensed under the Custom Non-Commercial License (CNCL). This li
 
 To use the content of this project for commercial purposes, please contact the authors at [contact email] to discuss terms and obtain a commercial license. The commercial license will ensure that the authors are fairly compensated for the use of their work in commercial applications.
 
-=======
+---
+
 © 2024 Fillipi Bittencourt. All rights reserved.
