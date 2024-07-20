@@ -52,7 +52,7 @@ This project is licensed under the Custom Non-Commercial License (CNCL). This li
 
 1. **Non-Commercial Use**: You are free to use, modify, and distribute the content of this project is for non-commercial purposes. This includes personal projects, academic research, and open-source contributions.
 
-2. **Attribution**: Any distribution of the original or modified software must include proper attribution to the original authors, along with a copy of this license.
+2. **Attribution**: Any distribution of the original or modified content must include proper attribution to the original authors, along with a copy of this license.
 
 3. **Commercial Use**: Commercial use of the content of this project, including but not limited to selling, sublicensing, or incorporating the software into a product or service for sale, is prohibited without prior written permission from the authors. Commercial use requires a separate commercial license agreement, which can be negotiated by contacting the authors at [contact email].
 
