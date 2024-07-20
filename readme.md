@@ -7,6 +7,8 @@ This repository contains the document for the book **Intelligence as Feeling: It
 - **/docs**: Contains all chapters of the book in markdown format.
 - **/assets**: Contains images, graphics, and other resources used in the book.
 - **/drafts**: Contains drafts and preliminary versions of the chapters.
+- **/thought-exercises**: Contains thought exercises on the subject that are not directly related to the book itself.
+
 
 ## Versioning
 
