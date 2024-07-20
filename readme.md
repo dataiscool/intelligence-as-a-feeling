@@ -60,6 +60,7 @@ This project is licensed under the Custom Non-Commercial License (CNCL). This li
 
 #### How to Obtain a Commercial License
 
+
 To use the content of this project for commercial purposes, please contact the author at fahbittencourt@gmail.com to discuss terms and obtain a commercial license. The commercial license will ensure that the author is fairly compensated for the use of their work in commercial applications.
 
 ---
