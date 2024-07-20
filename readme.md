@@ -8,13 +8,17 @@ This repository contains the document for the book **Intelligence as Feeling: It
 - **/assets**: Contains images, graphics, and other resources used in the book.
 - **/drafts**: Contains drafts and preliminary versions of the chapters.
 
-## Chapters
+## Versioning
 
-See /drafts/estrutura.md
+- **Current Version:**  
+  The version that is currently being worked on and has the latest updates, features, and bug fixes. This version can be found in the `develop` branch and is not yet be considered as a released product. It is a work-in-progress, incorporating ongoing improvements and new ideas.
+
+- **Published Version:**  
+  The version that has been officially released and is available to the public. This version is represented in the changelog and can be found in the `main` branch. 
 
 ## Changelog
 
-### [1.0.0] - 2024-07-19
+### [0.1.0] - TBD
 #### Added
 - Officially opened the repo.
 - Added changelog.
